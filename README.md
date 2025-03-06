@@ -1,7 +1,7 @@
 <h1>storevibe</h1>
 
 <h3>ERD</h3>
-![image](https://github.com/user-attachments/assets/0a534ca0-e83c-4f6c-a562-649a3d3ad4dc)
+<img src=https://github.com/user-attachments/assets/b34aa72c-e3cc-4af2-8ca3-6ddf75213a82></img>
 
 <h3>테이블 설계</h3>
 <b>1. 고객(Customer) 테이블</b><br>
