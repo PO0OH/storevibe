@@ -1,4 +1,5 @@
 <h1>storevibe</h1>
+온라인 쇼핑몰 주문 관리 시스템<br><br>
 
 <h3>ERD</h3>
 <img src=https://github.com/user-attachments/assets/b34aa72c-e3cc-4af2-8ca3-6ddf75213a82></img>
